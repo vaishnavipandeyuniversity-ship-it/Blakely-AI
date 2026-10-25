@@ -1,0 +1,27 @@
+# Secrets
+.env
+credentials.json
+token.json
+*.pem
+*.key
+
+# Runtime data
+mailmind.db
+*.db
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Logs
+*.log

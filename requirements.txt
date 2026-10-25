@@ -1,0 +1,4 @@
+# Local development dependencies.
+# Agentverse Hosted Agents provide uAgents and the Agent Chat Protocol.
+uagents>=0.25.5
+uagents-core>=0.25.5
